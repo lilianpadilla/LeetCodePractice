@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
