@@ -18,14 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/lilianpadilla/LeetCodePractice/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/lilianpadilla/LeetCodePractice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/lilianpadilla/LeetCodePractice/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/lilianpadilla/LeetCodePractice/tree/master/0217-contains-duplicate) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/lilianpadilla/LeetCodePractice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
